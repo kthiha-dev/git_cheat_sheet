@@ -1,1 +1,2 @@
-<?php echo "password"?>
+<?php
+ echo "password"?>
